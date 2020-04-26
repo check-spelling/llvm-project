@@ -1,4 +1,6 @@
 0x[0-9a-fA-F](?:\.[0-9a-fA-F]*|)[pP]
 (?:0[xX]|U\+|#)[0-9a-fA-FGgRr]{2,}[uU]?[lL]{0,2}\b
 \{[0-9a-fA-F]{8}-(?:[0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12}\}
+# Hello LLVM, yes, Perl has a character limit. We see you
+([a-zA-Z])\1{32766}
 \b([a-zA-Z])\1{3,}\b
