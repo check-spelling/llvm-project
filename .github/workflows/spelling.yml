@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.0.0
-    - uses: jsoref/check-spelling@refactor-word-splitter
+    - uses: jsoref/check-spelling@prerelease
       with:
         config: .github/actions/spell-check
