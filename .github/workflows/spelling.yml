@@ -11,3 +11,4 @@ jobs:
     - uses: jsoref/check-spelling@prerelease
       with:
         config: .github/actions/spell-check
+        debug: 1
