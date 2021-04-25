@@ -1,1 +1,1 @@
-^clang-tools-extra/docs
+^clang-tools-extra/
