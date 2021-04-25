@@ -49,4 +49,4 @@
 ^clang-tools-extra/clang-include-fixer/find-all-symbols/STLPostfixHeaderMap\.cpp$
 ^clang-tools-extra/clangd/CSymbolMap\.inc$
 ^clang/unittests/ASTMatchers/Dynamic/ParserTest\.cpp$
-
+^clang/unittests/Format/FormatTest\.cpp$(?:|ignore for now, but apply fixes)
