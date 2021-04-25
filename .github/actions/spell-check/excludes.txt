@@ -21,6 +21,7 @@
 \.exe([-.]|$)
 \.gcda$
 \.gcno$
+\.graffle$
 \.gz$
 \.ico
 \.idx$
