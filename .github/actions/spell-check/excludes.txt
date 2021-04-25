@@ -43,3 +43,4 @@
 \.thumb$
 \.washm
 \.xray$
+^clang-tools-extra/clangd/unittests/FuzzyMatchTests\.cpp$
