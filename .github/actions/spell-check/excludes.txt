@@ -44,3 +44,4 @@
 \.washm
 \.xray$
 ^clang-tools-extra/clangd/unittests/FuzzyMatchTests\.cpp$
+^clang-tools-extra/clangd/unittests/CodeCompleteTests\.cpp$
