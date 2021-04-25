@@ -46,3 +46,5 @@
 \.xray$
 ^clang-tools-extra/clangd/unittests/FuzzyMatchTests\.cpp$
 ^clang-tools-extra/clangd/unittests/CodeCompleteTests\.cpp$
+^clang-tools-extra/clang-include-fixer/find-all-symbols/STLPostfixHeaderMap\.cpp$
+^clang-tools-extra/clangd/CSymbolMap\.inc$
